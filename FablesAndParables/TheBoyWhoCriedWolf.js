@@ -5,13 +5,11 @@ function villageResponse(timesWolfCried) {
         return false; // The villagers don't come.
     } else if (wolfAppears) {
         console.log("A wolf actually appears!");
-        return timesWolfCried <= 2;
-        // The villagers only come if they still believe the boy.
+        return timesWolfCried <= 2; // The villagers only come if they still believe the boy.
     } else {
         console.log("The boy lied again.");
         return true; // The villagers still come.
     }
 }
 
-console.log(villageResponse(3)); 
-// Test the function with 3 false alarms.
+console.log(villageResponse(3)); // Test the function with 3 false alarms.
