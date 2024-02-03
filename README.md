@@ -5,7 +5,7 @@ Welcome to **MythosCode**, a repository where ancient myths, timeless fables, an
 The idea behind MythosCode is to explore how the universal themes and lessons of classic stories can be expressed in the structured logic of code. This project is a tribute to the timeless nature of storytelling, showcasing the creativity and flexibility of programming as a medium for narrative.
 
 ### Structure
-The repository is not organized.
+The repository is now somewgat organized.
 
 ### How to Use
 1. Clone the repository to your local machine.
