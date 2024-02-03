@@ -9,8 +9,8 @@ The repository is now somewhat organized.
 
 ### How to Use
 1. Clone the repository to your local machine.
-2. Navigate to the language-specific directory (TODO) of your choice.
-3. Open a tale. Each file includes comments (TODO)explaining the story and how the code relates to it.
+2. Navigate to the language-specific directory of your choice.
+3. Open a tale. Each file includes comments (TODO) explaining the story and how the code relates to it.
 
 ### Contribute
 MythosCode is an open canvas, and contributions are welcome! If you have a story you'd like to code or see coded, feel free to open an issue or submit a pull request. Whether it's a well-known myth or an obscure fable, we're excited to see how you bring it to life with code.
