@@ -6,6 +6,7 @@
 ## `Mythos Code`
 
 ![GitHub language count](https://img.shields.io/github/languages/count/mcyork/mythoscode)
+![Static Badge](https://img.shields.io/badge/McYork-Always_Swim_Up-blue?label=McYork&labelColor=green&color=purple)
 
 <br>
 [MythosCode](#mythoscode) •
