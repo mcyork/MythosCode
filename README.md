@@ -1,3 +1,24 @@
+<div align="center">
+
+<img src="./images/MythosCode.webp" alt="mythoscodelogo" width="200" height="200"/>
+
+
+## `Mythos Code`
+
+<br />
+![GitHub language count](https://img.shields.io/github/languages/count/mcyork/MythosCode)
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0--1.0-blue.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+[MythosCode](#mythoscode) •
+[Inspiration](#inspiration) •
+[Structure](#structure) •
+[How to Use](#how-to-use) •
+[Contribute](#contribute) •
+[Acknowledgments](#acknowledgments) •
+[TODO](#todo)
+
+</div>
+
 ### MythosCode
 Welcome to **MythosCode**, a repository where ancient myths, timeless fables, and epic tales are reimagined through the lens of modern programming languages. Each file in this collection represents a unique story, transformed into a function or series of functions, coded in a variety of programming languages to capture the essence, moral, and intrigue of the original narratives.
 
