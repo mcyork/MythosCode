@@ -9,6 +9,8 @@
 ![Static Badge](https://img.shields.io/badge/McYork-Always_Swim_Up-blue)
 
 <br>
+</div>
+
 [MythosCode](#mythoscode) •
 [Inspiration](#inspiration) •
 [Structure](#structure) •
@@ -17,7 +19,7 @@
 [Acknowledgments](#acknowledgments) •
 [TODO](#todo)
 
-</div>
+
 
 ### MythosCode
 Welcome to **MythosCode**, a repository where ancient myths, timeless fables, and epic tales are reimagined through the lens of modern programming languages. Each file in this collection represents a unique story, transformed into a function or series of functions, coded in a variety of programming languages to capture the essence, moral, and intrigue of the original narratives.
