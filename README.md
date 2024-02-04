@@ -9,6 +9,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/mcyork/MythosCode)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0--1.0-blue.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
+
 [MythosCode](#mythoscode) •
 [Inspiration](#inspiration) •
 [Structure](#structure) •
